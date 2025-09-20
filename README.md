@@ -61,8 +61,3 @@ We would like to acknowledge the following open source projects for their valuab
 - [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis
 - [MongoDB](https://www.mongodb.com/) - NoSQL database
 
-## Links
-
-- [Demo](https://feedbackform-flask-app.onrender.com/)
-
-
